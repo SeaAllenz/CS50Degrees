@@ -92,6 +92,13 @@ def shortest_path(source, target):
     If no possible path, returns None.
     """
 
+    path_list = list()
+
+    if neighbors_for_person(source)
+
+
+
+
     # TODO
     raise NotImplementedError
 
